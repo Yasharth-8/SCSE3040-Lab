@@ -1,4 +1,4 @@
-"My own tests for minutes_per_km."
+"""My own tests for minutes_per_km."""
 
 import pytest
 
