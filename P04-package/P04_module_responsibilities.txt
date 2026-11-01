@@ -1,0 +1,13 @@
+__init__.py: Defines the delivery package and exposes its main functions for convenient importing.
+
+data.py: Loads the delivery dataset and splits it into training and testing data.
+
+features.py: Provides functions for checking and describing individual delivery orders.
+
+model.py: Handles training, evaluating, saving, and loading the machine-learning model.
+
+validate.py: Checks whether a delivery order satisfies all required validation rules.
+
+train.py: Runs the training pipeline from the command line and saves the trained model.
+
+predict.py: Loads the saved model and generates a prediction for a delivery order.
